@@ -1,0 +1,3 @@
+# ignore all .ali and .o files
+*.ali
+*.o
